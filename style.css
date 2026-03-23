@@ -49,6 +49,17 @@ display:grid;
 grid-template-columns:repeat(3,1fr);
 gap:20px;
 padding:20px;
+}.tabs{
+background:#167c52;
+padding:10px;
+text-align:center;
+}
+
+.tabs a{
+color:white;
+margin:10px;
+text-decoration:none;
+font-weight:bold;
 }
 
 .test{
