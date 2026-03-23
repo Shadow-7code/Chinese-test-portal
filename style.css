@@ -1,6 +1,7 @@
 body{
 margin:0;
-font-family:Arial;
+font-family:Arial, "Noto Sans SC", "Microsoft YaHei", sans-serif;
+}
 background:#f4f4f4;
 text-align:center;
 }
