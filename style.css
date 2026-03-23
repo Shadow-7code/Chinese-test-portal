@@ -64,8 +64,14 @@ font-weight:bold;
 
 .test{
 background:white;
-padding:30px;
+width:120px;
+height:120px;
 border-radius:50%;
+display:flex;
+align-items:center;
+justify-content:center;
+margin:auto;
+font-weight:bold;
 box-shadow:0 2px 6px rgba(0,0,0,0.2);
 }
 
@@ -102,4 +108,10 @@ footer{
 background:#0b5f3d;
 color:white;
 padding:20px;
+}
+
+.test span{
+font-size:12px;
+display:block;
+margin-top:5px;
 }
